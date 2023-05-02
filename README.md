@@ -5,9 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/sparshp40310320?lang=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/sparshp40310320?lang=en" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sparsh-patel-54762b186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sparsh-patel-54762b186/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sparshpatel6165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sparshpatel6165/" height="30" width="40" /></a>
+<a href="https://twitter.com/sparshp40310320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sparshp40310320" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sparsh patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sparsh patel" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sparshpatel6165" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sparshpatel6165" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
