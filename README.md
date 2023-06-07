@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sparsh!</h1>
 <h3 align="center">Creating Something Interesting...</h3>
 
-- 📫 How to reach me **sparshpatel6165@gmail.com**
+- 📫 Here's how to reach me **sparshpatel6165@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
