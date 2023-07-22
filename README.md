@@ -1,9 +1,9 @@
   
      {
-        "💼status": "Computer Science student at the University of Washington-Seattle",
-        "🏠hometown": "Waterloo, Canada",
+        "💼status": "Software engineering student at the University of Waterloo",
+        "🏠hometown": "Fortmcmurray,Alberta, Canada",
         "💡highlights": [
-          "Amazon SDE Intern (Summer 2023)",
+          "Momento AI Intern (Summer 2023)",
           "Co-founder of Eat Together (student-run startup building a food meetup app)",
           "About 16 hackathons and six wins so far (I lost track lol)",
           "Prev. Olympiad Math teacher",
@@ -33,4 +33,5 @@
         "👀fun_fact": "I had a ponytail ever since a young age, and I kept growing it until I cut it
         off when I became 12 years old; it grew all the way to my knee 👀"
      }
+     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sparsh101ai&" alt="sparsh101ai" /></p>
   
