@@ -18,12 +18,12 @@
             "Less talking more doing"
         ],
         "📚favorite_books": [
-          "What If?: Serious Scientific Answers to Absurd Hypothetical Questions by Randall Munroe",
-          "Ikigai - The japanese way of life",
-          "48 laws of power",
-          "I had that same dream again"
+            "What If?: Serious Scientific Answers to Absurd Hypothetical Questions by Randall Munroe",
+            "Ikigai - The japanese way of life",
+            "48 laws of power",
+            "I had that same dream again"
         ],
-        "🎵favorite_music": "Sparkle - Your Name"
+            "🎵favorite_music": "Sparkle - Your Name"
      }
   
 <div style="display: flex;">
