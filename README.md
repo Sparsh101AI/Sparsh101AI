@@ -15,7 +15,7 @@
             "Cooking",
             "Reading dull but interesting books",
             "Jamming music",
-            "Eating and sleeping (why not lol)"
+            "Less talking more doing"
         ],
         "📚favorite_books": [
           "What If?: Serious Scientific Answers to Absurd Hypothetical Questions by Randall Munroe",
