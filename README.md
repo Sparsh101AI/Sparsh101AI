@@ -4,7 +4,7 @@
         "💼status": "Software engineering student at the University of Waterloo",
         "🏠hometown": "Fort Mcmurray, Alberta, Canada",
         "💡highlights": [
-          "Momento AI Intern (Summer 2023)",
+            "Momento AI Intern (Summer 2023)",
             "DevOps @ StreamdD",
             "NPL research at the UOFA",
             "Building with EEG",
