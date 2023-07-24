@@ -19,7 +19,7 @@
         ],
         "📚favorite_books": [
             "What If?: Serious Scientific Answers to Absurd Hypothetical Questions by Randall Munroe",
-            "Ikigai - The japanese way of life",
+            "Ikigai - The japanese secret to a long and happy life",
             "48 laws of power",
             "I had that same dream again"
         ],
