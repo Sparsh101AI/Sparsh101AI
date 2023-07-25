@@ -5,7 +5,7 @@
         "🏠hometown": "Fort Mcmurray, Alberta, Canada",
         "💡highlights": [
             "Momento AI Intern (Summer 2023)",
-            "DevOps @ StreamdD",
+            "DevOps @ StreamdDAnime",
             "NPL research at the UOFA",
             "Building with EEG",
             "About 5 hackathons with 2 wins (so far)"
