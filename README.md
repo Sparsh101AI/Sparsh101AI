@@ -8,7 +8,7 @@
             "DevOps @ StreamdDAnime",
             "NPL research at the UOFA",
             "Building with EEG",
-            "About 5 hackathons with 2 wins (so far)"
+            
         ],
         "✨hobbies": [
             "Binging Anime x2",
