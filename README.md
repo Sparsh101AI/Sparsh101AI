@@ -1,7 +1,7 @@
 <h3 align="left">What is Sparsh...?</h3>
   
      {
-        "💼status": "Software engineering student at the University of Waterloo",
+        "💼Status": "Software engineering student at the University of Waterloo",
         "🏠hometown": "Fort Mcmurray, Alberta, Canada",
         "💡highlights": [
             "Momento AI Intern (Summer 2023)",
