@@ -4,8 +4,7 @@
         "💼Status": "Software engineering student at the University of Waterloo",
         "🏠hometown": "Fort Mcmurray, Alberta, Canada",
         "💡highlights": [
-            "Momento AI Intern (Summer 2023)",
-            "DevOps @ StreamdDAnime",
+            "Momento AI Intern",
             "NPL research at the UOFA",
             "Building with EEG",
             
@@ -15,7 +14,6 @@
             "Cooking",
             "Reading dull but interesting books",
             "Jamming music",
-            "Less talking more doing"
         ],
         "📚favorite_books": [
             "What If?: Serious Scientific Answers to Absurd Hypothetical Questions by Randall Munroe",
